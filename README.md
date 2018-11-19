@@ -12,7 +12,7 @@ In order to train a machine learning system to recognize an object, one needs lo
 
 If a neural network is a *system* wherein we do abstract work, a dataset is an *ecosystem* made up of things of and embedded in the world. (Or, in the [words of UC Berkely professor Alexei Efros](https://www.newyorker.com/magazine/2018/11/12/in-the-age-of-ai-is-seeing-still-believing): "data, data, data... the gunk, the dirt, the complexity of the world.") Of course, what we choose to gather data of, and subsequently train our networks on, creates a listing of the things we care about. We put our labor towards teaching computers to know the difference between 23 different kinds of terrier found in the ImageNet dataset, but what about the things we haven't yet compiled datasets of?
 
-This project is a machine learning dataset consisting of 5000 images of pebbles gathered in Cambridge, England in the fall of 2018. Pebbles are literally cast-offs from something else, not the stone of buildings or triumphal sculptures but the thing left behind on the beach or after a glacier has moved through. A dataset of pebbles is a poetic addition to the overwhelmingly ultilitarian datasets that already exist.
+This project is a machine learning dataset consisting of 5000 images of pebbles gathered in Cambridge, England in the fall of 2018. Pebbles are literally cast-offs from something else, not the stone of buildings or triumphal sculptures but the thing left behind in the mud by scraping glaciers and on the beach by rolling waves and collecting along roadside ditches. A dataset of pebbles is a poetic addition to the overwhelmingly ultilitarian datasets that already exist.
 
 <hr />
 
