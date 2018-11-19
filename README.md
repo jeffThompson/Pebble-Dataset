@@ -5,7 +5,7 @@
 > "Hoard and praise the verity of gravel./Gems for the undeluded. Milt of the earth."  
 > — Seamus Heaney, *The Gravel Walks*, 1972
 
-> "...we must always bear in mind that a pebble is a transient thing. It is th the half-way stage of a long existence. Beginning as a fragment of rock, which itself is millions of year old, it ends its existence by being pounded into minute particles or grains."  
+> "We must always bear in mind that a pebble is a transient thing. It is th the half-way stage of a long existence. Beginning as a fragment of rock, which itself is millions of year old, it ends its existence by being pounded into minute particles or grains."  
 > — Clarence Ellis, *Pebbles on the Beach*, 1954
 
 In order to train a machine learning system to recognize an object, one needs lots and lots of examples to train it on. The [ImageNet dataset](https://en.wikipedia.org/wiki/ImageNet), a project started in 2009 at Princeton University, is now the defacto standard for training and testing object-detection systems. It contains hand-annotated URLs to 14-million images in 1000 categories, ranging from animals (dozens of different dog breeds and bird species) to everyday objects. Datasets abound across the internet, from massive sets of Tweets to videos of people performing household tasks.
