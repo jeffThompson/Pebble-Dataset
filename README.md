@@ -23,7 +23,7 @@ This project is a machine learning dataset consisting of 5000 images of pebbles 
 This project is made of up several parts:
 
 * A dataset of images of 5000 pebbles  
-    * The images have been color-corrected and centered checked by hand to ensure none are cut off or otherwise bad  
+    * Images have been color-corrected and centered checked by hand to ensure none are cut off or otherwise bad  
     * Also included are the extracted features of the dataset at 300 features (using the final fully-connected layer of Inception and PCA) and 2 features (using tSNE)  
 * A large inkjet print of the pebbles in the dataset, sorted by visual similarity (a selection of which can be seen above – full version is in this repo)  
 * A video showing the pebbles morphing one into another, which is not in the repo but can be seen here: [https://vimeo.com/301470836](https://vimeo.com/301470836)    
