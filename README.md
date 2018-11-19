@@ -14,7 +14,7 @@ If a neural network is a *system* wherein we do abstract work, a dataset is an *
 
 This project is a machine learning dataset consisting of 5000 images of pebbles gathered in Cambridge, England in the fall of 2018. Pebbles are literally cast-offs from something else, not the stone of buildings or triumphal sculptures but the thing left behind in the mud by scraping glaciers and on the beach by rolling waves and collecting along roadside ditches. A dataset of pebbles is a poetic addition to the overwhelmingly ultilitarian datasets that already exist.
 
-*This project was developed at University of Cambridge, at both King's College and the Computer Laboratory, where I was a Visiting Fellow and artist-in-residence respetively.*
+*This project was developed at University of Cambridge, at both King's College and the Computer Laboratory, where I was a Visiting Fellow and artist-in-residence, respetively.*
 
 <hr />
 
